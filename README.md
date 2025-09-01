@@ -1,6 +1,5 @@
 
 
-![Seojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojin235&show_icons=true&theme=radical)
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seojin235&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/seojin235"
